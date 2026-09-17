@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.5100841, 38.7956235]
+      },
+      "properties": {
+        "name": "Battle of Thermopylae (480 BC)",
+        "formation": "Greek Phalanx",
+        "location": "Pass of Thermopylae, Anthele / Kolonos Hill, Greece",
+        "description": "Spartan King Leonidas and 7,000 allied Greeks deployed the dense hoplite phalanx in the narrow coastal pass to bottle up and defeat repeated frontal assaults by Xerxes I's Persian imperial army.",
+        "osm_id": "way 597032209",
+        "tactical_feature": "Chokepoint bottlenecking, overlapping aspis bronze shields, othismos forward mass."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.486062, 50.9150519]
+      },
+      "properties": {
+        "name": "Battle of Hastings (1066)",
+        "formation": "Shield Wall (Scildburh / Skjaldborg)",
+        "location": "Senlac Hill / Battle Abbey, Battle, East Sussex, England, UK",
+        "description": "King Harold II Godwinson arrayed the Anglo-Saxon army in a dense, interlocking shield wall along Senlac Hill, repelling hours of Norman cavalry and infantry assaults until broken by feigned retreats.",
+        "osm_id": "way 271728318",
+        "tactical_feature": "Elevated ridge defense, interlocking linden-wood shields with iron bosses, Dane axe front-rank shock counter."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0251364, 36.8710059]
+      },
+      "properties": {
+        "name": "Battle of Carrhae (53 BC)",
+        "formation": "Roman Testudo & Locked Shields (Defensive Failure)",
+        "location": "Harran (Carrhae), Şanlıurfa Province, Turkey",
+        "description": "Marcus Licinius Crassus's Roman legions formed dense shield arrays against Parthian horse archers, only to be charged and trampled by heavily armored cataphracts in open desert terrain.",
+        "osm_id": "relation 1747581",
+        "tactical_feature": "Catastrophic dilemma: locked shields vulnerable to cataphract shock, loosened ranks vulnerable to arrow swarms."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.0248716, 45.1334796]
+      },
+      "properties": {
+        "name": "Siege of Cremona (69 AD)",
+        "formation": "Roman Testudo (Siege Assault)",
+        "location": "Cremona, Lombardy, Italy",
+        "description": "Flavian legions under Marcus Antonius Primus advanced under the city ramparts in tight testudo formation to deflect catapult missiles, stones, and darts while attacking the fortifications.",
+        "osm_id": "relation 44189",
+        "tactical_feature": "Curved scuta locked overhead and on flanks, deflecting plunging missile barrages during assault."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.2354, 31.778]
+      },
+      "properties": {
+        "name": "Siege of Jerusalem (70 AD)",
+        "formation": "Roman Testudo (Sapper & Breach Protection)",
+        "location": "Old City, Jerusalem",
+        "description": "Titus's Roman legions utilized the testudo formation to protect legionary engineers and sappers undermining city ramparts and breaching the Antonia Fortress.",
+        "osm_id": "historic site",
+        "tactical_feature": "Shield roof providing mobile ballistic armor for breaching teams and battering rams."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4332778, 49.1948303]
+      },
+      "properties": {
+        "name": "Battle of Verdun - Mémorial de Verdun (1916)",
+        "formation": "Modern Trench Warfare & Defense-in-Depth",
+        "location": "Fleury-devant-Douaumont, Verdun, Meuse, Grand Est, France",
+        "description": "The epic 302-day battle exemplifying industrial defense-in-depth, where echeloned trenches, machine gun crossfires, and massive artillery barrages absorbed Falkenhayn's attrition offensive.",
+        "osm_id": "node 6189830553",
+        "tactical_feature": "Traversed fire trenches, barbed wire kill zones, subterranean dugouts, Noria unit rotation system."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.4388194, 49.2168233]
+      },
+      "properties": {
+        "name": "Fort de Douaumont - Verdun (1916)",
+        "formation": "Trench & Subterranean Fortress Bastion",
+        "location": "Douaumont-Vaux, Meuse, France",
+        "description": "The central high-ground subterranean armored fortress of the Fortified Region of Verdun, anchor of the Meuse Heights defensive network.",
+        "osm_id": "way 244501602",
+        "tactical_feature": "Reinforced concrete underground galleries, 155mm retractable armored turrets, fortified redoubts."
+      }
+    }
+  ]
+}
